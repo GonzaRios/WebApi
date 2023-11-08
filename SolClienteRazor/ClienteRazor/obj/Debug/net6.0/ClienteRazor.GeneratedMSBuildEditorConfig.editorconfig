@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ClienteRazor
+build_property.RootNamespace = ClienteRazor
+build_property.ProjectDir = C:\Users\gonzalo.rios\Documents\Curso Web API .NET Core\SolClienteRazor\ClienteRazor\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gonzalo.rios\Documents\Curso Web API .NET Core\SolClienteRazor\ClienteRazor
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/Envios/Agregar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9zXEFncmVnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/Envios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW52aW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/ListaJobsController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFKb2JzQ29udHJvbGxlcjFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gonzalo.rios/Documents/Curso Web API .NET Core/SolClienteRazor/ClienteRazor/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fb2u8w9wng
